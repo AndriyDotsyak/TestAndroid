@@ -4,5 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TestAndroid.iml" filepath="$PROJECT_DIR$/TestAndroid.iml" />
     </modules>
+    <!--develop-->
   </component>
 </project>
